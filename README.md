@@ -1,5 +1,8 @@
 # Car-Infotament-System
 
+Hi! <br>
+This is my study project called Car-Infotament-System. Its main purpose is to collect and aquisition data from the car (VW golf IV) on screen. The program also has an internet radio function.
+
 
 Work in progress
 
