@@ -6,7 +6,7 @@ This is my study project called Car-Infotament-System. Its main purpose is to co
 
 Work in progress
 
-Some screens from application
+Some screenshots from application
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/110713501/183277630-b1776a09-45f8-46a8-a3c2-7a0722e9b099.png" width="800" height="480"  />
